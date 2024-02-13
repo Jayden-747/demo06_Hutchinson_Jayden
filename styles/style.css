@@ -1,1 +1,71 @@
+/*
+  Colour Palette 
+
+  Black: #323031
+  Grey: #3D3B3C
+  White: #EAEAEA
+  Blue: #88acff
+*/
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #3D3B3C;
+  color: #EAEAEA;
+}
+
+.bg-info {
+  background-color: #323031 !important;
+}
+
+.navbar {
+  background-color: #323031 !important;
+  color: #EAEAEA;
+}
+
+.navbar-brand{
+  font-family: "DM Sans", sans-serif;
+  font-size: 25px;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+  color: #EAEAEA;
+}
+
+.btn-info {
+  color: #EAEAEA;
+  background-color: #88acff; 
+}
+
+.btn-primary {
+  color: #EAEAEA;
+  font-size: 150%;
+  background-color: #88acff;
+}
+
+.btn {
+  color:#88acff;
+  border-color: #88acff;
+  background-color: #323031;
+}
+
+.btn:hover {
+  background-color: #88acff;
+  color: #EAEAEA;
+}
+
+.material-icons {
+  color: #EAEAEA;
+}
+
+.btn-check {
+  color: #88acff;
+}
+
+.card-body {
+  margin-top: 20px;
+}
+
 
